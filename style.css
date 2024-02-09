@@ -46,20 +46,21 @@ nav {
 }
 
 a {
-  color: black;
+  color: rgb(0, 0, 0);
   text-decoration: none;
   text-decoration-color: white;
 }
 
 a:hover {
-  color: grey;
+  color: rgb(88, 112, 31);
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: rgb(88, 112, 31);
 }
 
 .logo {
   font-size: 2rem;
+  color: rgb(88, 112, 31);
 }
 
 .logo:hover {
@@ -109,7 +110,7 @@ a:hover {
   padding: 10px;
   text-align: center;
   font-size: 1.5rem;
-  color: black;
+  color: rgb(88, 112, 31);
   text-decoration: none;
   transition: all 0.3 ease-in-out;
 }
@@ -197,6 +198,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  color: rgb(88, 112, 31);
 }
 
 #socials-container {
@@ -372,11 +374,11 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: black;
+  color: rgb(88, 112, 31);
 }
 
 .project-btn {
-  color: black;
+  color: rgb(88, 112, 31);
   border-color: rgb(163, 163, 163);
 }
 
